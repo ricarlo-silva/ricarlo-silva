@@ -19,6 +19,7 @@ Here are a few technologies I've worked with:
 ![Kotlin](https://img.shields.io/badge/-Kotlin-05122A?style=flat&logo=Kotlin&logoColor=7F52FF)
 ![Swift](https://img.shields.io/badge/-Swift-05122A?style=flat&logo=Swift&logoColor=FA7343)
 ![Dart](https://img.shields.io/badge/-Dart-05122A?style=flat&logo=Dart&logoColor=0175C2)
+![Ruby](https://img.shields.io/badge/-Ruby-05122A?style=flat&logo=Ruby&logoColor=0175C2)
 
 ### 📱 Mobile Development
 ![Android](https://img.shields.io/badge/-Android-05122A?style=flat&logo=Android&logoColor=3DDC84)
